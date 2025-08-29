@@ -9,11 +9,11 @@
     "hardSkills": [
       {
         "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "logo": "https://raw.githubusercontent.com/Viiihfelix/js-developer-portfolio/refs/heads/main/data/imgs/nodejs.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/Viiihfelix/js-developer-portfolio/refs/heads/main/data/imgs/css.png"
       },
       {
         "name": "Angular",
@@ -34,7 +34,7 @@
     ],
     "softSkills": [
       "Empatia",
-      "Liderança",
+      "Prestativa",
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização"
